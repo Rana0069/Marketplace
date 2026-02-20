@@ -1,4 +1,3 @@
- (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
 diff --git a/README.md b/README.md
 new file mode 100644
 index 0000000000000000000000000000000000000000..50ead8cfd9631fa5a312da5f21b8d8c3adbb9bdf
@@ -93,6 +92,3 @@ index 0000000000000000000000000000000000000000..50ead8cfd9631fa5a312da5f21b8d8c3
 +## Demo
 +
 +Use a deployed link or record a 3–5 minute walkthrough covering auth, browse, details, favorites, and search/pagination.
- 
-EOF
-)
