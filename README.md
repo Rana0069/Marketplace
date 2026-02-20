@@ -83,6 +83,3 @@ npm run seed
 
 Adds 2 users + 10 products.
 
-## Demo
-
-Use a deployed link or record a 3–5 minute walkthrough covering auth, browse, details, favorites, and search/pagination.
